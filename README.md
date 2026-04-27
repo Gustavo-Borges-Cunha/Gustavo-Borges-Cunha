@@ -1,4 +1,4 @@
-## Saudações, Bem vindo ao meu Perfil.
+## Bem vindo ao meu Perfil.
 
 - Cursando Eng. De Software <img width="25" height="25" alt="image" src="https://github.com/user-attachments/assets/d4e8ac6d-126e-4f3c-acd7-d5bc5e5cc180" />
 - Me chamo Gustavo - 18 anos
